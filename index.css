@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card-container2 {
+    background-color: #061740;
+    height: 100%;
+}
+
+.heading-section-2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.image-home {
+    height: 500px;
+    width: 100%;
+}
+
+.image {
+    background-color: #061740;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+
+
+.card-container3 {
+    background-image: linear-gradient(135deg, #153626, #0c0a2b, #bf9c1d);
+    height: 100%;
+}
+
+.para-section-3 {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: italic;
+}
+
+.button {
+    border-style: solid;
+    border-radius: 100px;
+}
+
+.inner-container-image-1 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sandeep.png");
+    background-size: cover;
+    height: 250px;
+
+}
+
+.inner-container-image-2 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/pritesh.png");
+    background-size: cover;
+    height: 250px;
+
+}
+
+.inner-container-image-3 {
+    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sanjay-sehgal.png");
+    background-size: cover;
+    height: 250px;
+
+}
+
+.heigth-card-container {
+    height: 100%;
+    width: 100%;
+    background-color: #10052e;
+}
+
+.button-watch {
+    border-radius: 50px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 22px;
+    height: 45px;
+    width: 148px;
+    border-width: 0px;
+}
+
+.button {
+    height: 50px;
+    width: 350px;
+    padding: 15px;
+    font-size: 20px;
+    font-family: "Roboto";
+    border-radius: 5px;
+}
+
+.cash-overline {
+    text-decoration: line-through;
+    color: green !important;
+}
+
+.para-free {
+    color: green;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.para-last {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.card-container-section-4 {
+    background-color: #050d24;
+    height: 100%;
+}
+
+.para-section-4 {
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: orange;
+    border-style: solid;
+    padding: 15px;
+    color: orange;
+    font-family: "Roboto";
+    font-size: 25px;
+    background-color: transparent;
+}
+
+.carousel-card-container {
+    background-color: #091836;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    border-radius: 15px;
+}
+
+.heading-carousel {
+    font-size: 25px;
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.image-learn {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.image-card-caurosel {
+    height: 75px;
+    width: 75px;
+    padding: 10px;
+}
+
+.hr-line {
+    background-color: #7b8079;
+}
+
+.icon {
+    font-size: 50px;
+    margin: 10px;
+}
+
+.bg-color {
+    background-color: #15153d;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.unordered-list {
+    list-style-type: none;
+}
+
+.icon-tick {
+    height: 50px;
+    width: 50px;
+}
