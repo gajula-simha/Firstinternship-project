@@ -27,7 +27,7 @@
 }
 
 .image-container {
-    animation: scroll 30s;
+    animation: scroll 100s;
 }
 
 @keyframes scroll {
