@@ -26,6 +26,20 @@
     width: 100%;
 }
 
+.image-container {
+    animation: scroll 30s;
+}
+
+@keyframes scroll {
+    0% {
+        transform: TranslateX(0);
+    }
+
+    100% {
+        transform: TranslateX(-100%);
+    }
+}
+
 
 .card-container3 {
     background-image: linear-gradient(135deg, #153626, #0c0a2b, #bf9c1d);
